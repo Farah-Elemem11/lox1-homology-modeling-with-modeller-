@@ -1,0 +1,24 @@
+ _aln.pos         10        20        30        40        50        60
+7W5DA     -------------------------------------------------------------------- 
+lox1      MTFDDLKIQTVKDQPDEKSNGKKAKGLQFLYSPWWCLAAATLGVLCLGLVVTIMVLGMQLSQVSDLLT 
+ _consrvd
+
+ _aln.p   70        80        90       100       110       120       130
+7W5DA     -------------------------------------------------------------------- 
+lox1      QEQANLTHQKKKLEGQISARQQAEEASQESENELKEMIETLARKLNEKSKEQMELHHQNLNLQETLKR 
+ _consrvd
+
+ _aln.pos  140       150       160       170       180       190       200
+7W5DA     ---CSAPCPQDWIWHGENCYLFSSGSFNWEKSQEKCLSLDAKLLKINSTADLDFIQQAISYSSFPFWM 
+lox1      VANCSAPCPQDWIWHGENCYLFSSGSFNWEKSQEKCLSLDAKLLKINSTADLDFIQQAISYSSFPFWM 
+ _consrvd    *****************************************************************
+
+ _aln.pos    210       220       230       240       250       260       270
+7W5DA     GLSRRNPSYPWLWEDGSPLMPHLFRVRGAVSQTYPSGTCAYIQRGAVYAENCILAAFSICQKKANL-- 
+lox1      GLSRRNPSYPWLWEDGSPLMPHLFRVRGAVSQTYPSGTCAYIQRGAVYAENCILAAFSICQKKANLRA 
+ _consrvd ******************************************************************
+
+ _aln.pos
+7W5DA     - 
+lox1      Q 
+ _consrvd
