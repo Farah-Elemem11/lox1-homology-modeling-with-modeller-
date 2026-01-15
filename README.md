@@ -1,3 +1,5 @@
+Author: Farah Mohamed Elemam > Role:Biochemist & Bioinformatics Researcher 
+
 LOX1 Homology Modeling with Modeller
 
 This repository contains the homology modeling workflow of the LOX1 protein using Modeller. The project demonstrates building a reliable 3D protein model based on a suitable template and evaluating its structural quality.
