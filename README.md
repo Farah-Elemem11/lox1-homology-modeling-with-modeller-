@@ -34,3 +34,20 @@ LOX1 sequence shows high conservation with template across all residues
 Alignment coverage: full-length protein (236 amino acids)
 
 The model is ready for further computational studies including molecular docking or dynamics simulations
+
+Connect  
+- LinkedIn: https://www.linkedin.com/in/farah-elemam-107969323
+
+
+
+
+
+
+
+
+
+
+
+
+
+
