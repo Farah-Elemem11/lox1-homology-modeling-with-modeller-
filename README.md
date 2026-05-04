@@ -1,4 +1,4 @@
-Author: Farah Mohamed Elemam > Role:Biochemist & Bioinformatics Researcher 
+
 
 LOX1 Homology Modeling with Modeller
 
